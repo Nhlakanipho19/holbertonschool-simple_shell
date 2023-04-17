@@ -28,7 +28,7 @@ test_cph[i] = command_path;
 exist_stat = exist(test_cph[i]);
 dir_path = strtok(NULL, ":");
 i++;
-    }
+}
 i--;
 free(global_dup);
 free_grid(test_cph, i);

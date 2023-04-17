@@ -7,16 +7,16 @@
 
 void free_grid(char **grid, int heigth)
 {
-  int i = 0;
+int i = 0;
 
-  if (grid == NULL)
-    {
-      return;
-    }
+if (grid == NULL)
+{
+return;
+}
 
-  while (i < heigth)
-    {
-      free(grid[i]);
-      i++;
-    }
+while (i < heigth)
+{
+free(grid[i]);
+i++;
+}
 }

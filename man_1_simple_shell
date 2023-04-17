@@ -56,6 +56,6 @@ hsh main.c shell.c test_ls_1
 When you type yes it shows an infinite loop.
 
 .SH AUTHORS
-.Nhlakanipho Msutwana - Andronica Maswanganye
+.B Nhlakanipho Msutwana - Andronica Maswanganye
 .br
  \ @NhlakaniphoSingular\          \ @Andro-crt

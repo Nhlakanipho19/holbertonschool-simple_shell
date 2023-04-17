@@ -34,7 +34,7 @@ free(global_dup);
 free_grid(test_cph, i);
 if (exist_stat == 0)
 {
-rguments[0] = test_cph[i];
+arguments[0] = test_cph[i];
 return (0);
 }
 else
